@@ -1,9 +1,9 @@
 #!/bin/bash
 
-ZIP_URL="https://github.com/OutlawedDev/Firely/releases/download/2.2.0/Firely.Interface.app.zip"
-TMP_ZIP="/tmp/Firely.Interface.app.zip"
+ZIP_URL="https://github.com/OutlawedDev/FirelyV2/releases/download/1.0.0/Firely.V2.app.zip"
+TMP_ZIP="/tmp/Firely.V2.app.zip"
 UNZIP_DIR="/tmp/firely_unzip"
-APP_NAME="Firely Interface.app"
+APP_NAME="Firely V2.app"
 DEST_DIR="/Applications"
 
 echo "⬇️ Downloading app zip..."
